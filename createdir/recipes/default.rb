@@ -1,4 +1,4 @@
-directory "/srv/www/shared" do
+directory "/shared/apps" do
   mode 0755
   owner 'root'
   group 'root'
