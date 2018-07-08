@@ -1,8 +1,8 @@
 user 'zyklus' do
-  comment ''
-  uid '1234'
-  gid '1234'
-  home '/home/random'
+  comment 'Zyklus user'
+  uid '804'
+  gid '1001'
+  home '/home/zyklus'
   shell '/bin/bash'
-  password '$1$JJsvHslasdfjVEroftprNn4JHtDi'
+  password 'test@123'
 end
