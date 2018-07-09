@@ -1,5 +1,9 @@
+group 'zykluscomputing' do 
+  action :create  
+  gid '1001'
+end
+  
 user 'zyklus' do
-  comment 'Zyklus user'
   uid '804'
   gid '1001'
   home '/home/zyklus'
